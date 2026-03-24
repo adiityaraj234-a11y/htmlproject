@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -63,7 +63,7 @@ body {
     color: var(--secondary-teal);
 }
 
-/* Hero Section */
+
 .hero {
     height: 80vh;
     background: linear-gradient(135deg, var(--primary-yellow) 0%, #FFF9D0 100%);
@@ -88,7 +88,7 @@ body {
     margin-bottom: 30px;
 }
 
-/* Buttons */
+
 .btn-primary {
     background: var(--secondary-teal);
     color: white;
@@ -114,7 +114,7 @@ body {
     transform: scale(1.05);
 }
 
-/* Services Grid */
+
 .services {
     padding: 80px 10%;
     text-align: center;
@@ -146,7 +146,7 @@ body {
     border-bottom: 5px solid var(--primary-yellow);
 }
 
-/* Contact Form */
+
 .contact {
     background: var(--white);
     padding: 80px 10%;
